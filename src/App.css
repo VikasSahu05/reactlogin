@@ -84,10 +84,10 @@ i{
     text-align: center;
     color: white;
   }
-  .containerMargin{
+  /* .containerMargin{
     position: relative;
   left: 0%;
   top: 0%;
   transform: translate(0%,0%);
-  }
+  } */
 }
