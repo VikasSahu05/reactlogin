@@ -51,6 +51,7 @@ function App() {
 
   return (
     <>
+    <div className='container-fluid'>
       <div className='container containerMargin bg-white'>
    <div className='row'>
       <div className='col-12 col-sm-6 col-md-6 p-5'>
@@ -78,6 +79,7 @@ function App() {
           <h6>let's get connected</h6>
       </div>
    </div>
+</div>
 </div>
     </>
   );
