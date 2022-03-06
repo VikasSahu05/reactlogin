@@ -85,10 +85,9 @@ i{
     color: white;
   }
   .containerMargin{
-    margin: 0px;
     position: relative;
-    left: 0%;
-    top: 0%;
-    transform: translate(0%,0%);
+  left: 0%;
+  top: 0%;
+  transform: translate(0%,0%);
   }
 }
